@@ -1,4 +1,4 @@
-# Projeto Caipora
+# Projeto Caipora :deciduous_tree:
 
 
 # IDEIA
@@ -28,6 +28,9 @@ O projeto Caipora é liderado por Victor Mota
 | Naiara Andrade | Engenharia de Software |               |                        |
 | Victor Mota    | Engenharia de Software |               | mrvictorunb@gmail.com  |
 
+## Contribuindo
+
+Antes de contribuir com o projeto, leia as [Regras de Conduta](https://github.com/deeplearningunb/caipora/blob/development/.github/CONTRIBUTING.md) da equipe.
 
 # Planejamento
 
