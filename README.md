@@ -21,12 +21,12 @@ A proposta de solução do grupo é o projeto Caipora que visa, a partir de dado
 O projeto Caipora é liderado por Victor Mota
 
 
-| Membros        | Curso                  | github | email                  |
-|----------------|------------------------|--------|------------------------|
-| Iolane Andrade | Engenharia de Software |        | andrade.icaa@gmail.com |
-| Mateus Batista | Engenharia de Software |        |                        |
-| Naiara Andrade | Engenharia de Software |        |                        |
-| Victor Mota    | Engenharia de Software |        | mrvictorunb@gmail.com  |
+| Membros        | Curso                  | github        | email                  |
+|----------------|------------------------|---------------|------------------------|
+| Iolane Andrade | Engenharia de Software | IolaneAndrade | andrade.icaa@gmail.com |
+| Mateus Batista | Engenharia de Software |               |                        |
+| Naiara Andrade | Engenharia de Software |               |                        |
+| Victor Mota    | Engenharia de Software |               | mrvictorunb@gmail.com  |
 
 
 # Planejamento
