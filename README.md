@@ -6,6 +6,7 @@
 ## Qual é o problema?
 
 Com as crescentes queimadas no país em consequência de ações humanas a crise das queimadas na Amazônia e a falta de informações da população em geral ao debater o tema nas mídias sociais, tornou-se de suma importância que os dados relativos a queimadas fossem expostos de forma mais clara para os cidadãos. 
+
 É importante expor os dados não apenas a crise na Amazônia, mas as queimadas no cerrado, na mata atlântica pois são crises que vem se agravando a cada ano, fruto do desrespeito e ambição ao meio ambiente. Com a exploração criminosa da fauna, mais ágil do que a sua recuperação, a fauna também é prejudicada, o clima, o solo. Os impactos são inúmeros.
 
 
