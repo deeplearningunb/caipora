@@ -34,19 +34,19 @@ Antes de contribuir com o projeto, leia as [Regras de Conduta](https://github.co
 
 # Planejamento
 
-## Objetivos
+### Objetivos
 
-## Metas
+### Metas
 
-## Tarefas
+### Tarefas
 
-## Recursos necessários
+### Recursos necessários
 
-## Riscos
+### Riscos
 
-## Cronograma
+### Cronograma
 
-## Membros/Stakeholders
+### Membros/Stakeholders
 
 O grupo Caipora é composto pelos 4 membros e possui um interesse pelo desenvolvido pelo professor da disciplina de Deep Learning, Diego Dorgan.
 
