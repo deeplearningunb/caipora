@@ -11,11 +11,12 @@ Com as crescentes queimadas no país em consequência de ações humanas a crise
 
 
 ## Qual solução você propõe?
-A proposta de solução do grupo é o projeto Caipora que visa, a partir de dados relacionados a queimadas no Brasil, classificar os períodos de maiores queimadas e as regiões que mais sofrem queimadas no país. O projeto tem como objetivo também fazer uma predição do dado para o próximo ano.
+A proposta de solução do grupo é o projeto Caipora que visa, a partir de dados relacionados a queimadas no Brasil, classificar os períodos de maiores queimadas e as regiões que mais sofrem queimadas no país. O projeto tem como objetivo também fazer uma predição, com os dados obtidos desde 2015, sobre as áreas que poderão sofrer com maiores queimadas em 2020.
 
 
 ## Quem será Beneficiado com essa solução?
 
+Um possível beneficiado com a solução proposta, é o próprio governo federal brasileiro, pois além de possuir de forma visual as regiões com maiores indícios de queimadas desde 2015, ele poderia focar seus recursos nessas áreas para impedir ou diminuir os incêndios nas regiões.
 
 # EQUIPE
 
@@ -25,9 +26,7 @@ O projeto Caipora é liderado por Victor Mota
 | Membros        | Curso                  | github        | email                  |
 |----------------|------------------------|---------------|------------------------|
 | Iolane Andrade | Engenharia de Software | IolaneAndrade | andrade.icaa@gmail.com |
-| Mateus Batista | Engenharia de Software |               |                        |
-| Naiara Andrade | Engenharia de Software |               |                        |
-| Victor Mota    | Engenharia de Software |               | mrvictorunb@gmail.com  |
+| Victor Mota    | Engenharia de Software | MrVictor42    | mrvictorunb@gmail.com  |
 
 ## Contribuindo
 
@@ -35,17 +34,19 @@ Antes de contribuir com o projeto, leia as [Regras de Conduta](https://github.co
 
 # Planejamento
 
-Objetivos
+## Objetivos
 
-Metas
+## Metas
 
-Tarefas
+## Tarefas
 
-Recursos necessários
+## Recursos necessários
 
-Riscos
+## Riscos
 
-Cronograma
+## Cronograma
 
-Membros/Stakeholders
+## Membros/Stakeholders
+
+O grupo Caipora é composto pelos 4 membros e possui um interesse pelo desenvolvido pelo professor da disciplina de Deep Learning, Diego Dorgan.
 
