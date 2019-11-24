@@ -46,6 +46,8 @@ Antes de contribuir com o projeto, leia as [Regras de Conduta](https://github.co
 
 ### Cronograma
 
+Acesse o cronograma do projeto [aqui.](https://github.com/deeplearningunb/caipora/blob/development/docs/Cronograma.md)
+
 ### Membros/Stakeholders
 
 O grupo Caipora é composto pelos 4 membros e possui um interesse pelo desenvolvido pelo professor da disciplina de Deep Learning, Diego Dorgan.
