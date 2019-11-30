@@ -5,7 +5,7 @@
 
 ## Qual é o problema?
 
-Com as crescentes queimadas no país em consequência de ações humanas a crise das queimadas na Amazônia e a falta de informações da população em geral ao debater o tema nas mídias sociais, tornou-se de suma importância que os dados relativos a queimadas fossem expostos de forma mais clara para os cidadãos. 
+Com as crescentes queimadas no país em consequência de ações humanas, a crise das queimadas na Amazônia e a falta de informações da população em geral ao debater o tema nas mídias sociais, tornou-se de suma importância que os dados relativos a queimadas fossem expostos de forma mais clara para os cidadãos. 
 
 É importante expor os dados não apenas a crise na Amazônia, mas as queimadas no cerrado, na mata atlântica pois são crises que vem se agravando a cada ano, fruto do desrespeito e ambição ao meio ambiente. Com a exploração criminosa da fauna, mais ágil do que a sua recuperação, a fauna também é prejudicada, o clima, o solo. Os impactos são inúmeros.
 
@@ -16,11 +16,11 @@ A proposta de solução do grupo é o projeto Caipora que visa, a partir de dado
 
 ## Quem será Beneficiado com essa solução?
 
-Um possível beneficiado com a solução proposta, é o próprio governo federal brasileiro, pois além de possuir de forma visual as regiões com maiores indícios de queimadas desde 2015, ele poderia focar seus recursos nessas áreas para impedir ou diminuir os incêndios nas regiões.
+O principal beneficiado com o projeto Caipora, é o governo federal brasileiro, pois além de possuir de forma visual as regiões com maiores indícios de queimadas desde 2015. Com os dados em mãos, o governo pode focar seus recursos nessas áreas para impedir ou diminuir os incêndios nas regiões.
 
 # EQUIPE
 
-O projeto Caipora é liderado por Victor Mota
+O projeto Caipora é liderado por Victor Mota.
 
 
 | Membros        | Curso                  | github        | email                  |
@@ -91,7 +91,7 @@ Antes de contribuir com o projeto, leia as [Regras de Conduta](https://github.co
             Tempo para estudar os dados;
         </li>
         <li>
-            Tempo para utilizar as técnicas de deep learning no projeto;
+            Tempo para utilizar as técnicas de deep learning no projeto.
         </li>
     </ol>
     <h4> <li> Riscos </li></h4>
@@ -101,6 +101,9 @@ Antes de contribuir com o projeto, leia as [Regras de Conduta](https://github.co
         </li>
         <li> 
             O notebook ou computador de mesa não suportar o processamento dos dados;
+        </li>
+        <li>
+            Algum dos membros desistir da disciplina;
         </li>
         <li> 
             Final do semestre;
@@ -114,5 +117,5 @@ Acesse o cronograma do projeto [aqui.](https://github.com/deeplearningunb/caipor
 
 ### Membros/Stakeholders
 
-O grupo Caipora é composto pelos 4 membros e possui um interesse pelo desenvolvido pelo professor da disciplina de Deep Learning, Diego Dorgan.
+O grupo Caipora é composto pelos 2 membros e possui um interesse pelo desenvolvido pelo professor da disciplina de Deep Learning, Diego Dorgam.
 
