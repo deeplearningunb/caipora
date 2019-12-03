@@ -8,31 +8,36 @@ for year in years:
 
     for mouth in mouths:
 
-        with open('dataset_initial/' + year + '/' + mouth + '.csv', 'r') as csv_file:
+        if year == '2019' and mouth == 'Dezembro':
 
-            csv_reader = csv.DictReader(csv_file)
+            print('Não Tem Dataset para este mês')
+        else:
 
-            with open('dataset_final/' + year + '/' + mouth + '/' + mouth + '.csv', 'w') as new_file:
+            with open('dataset_initial/' + year + '/' + mouth + '.csv', 'r') as csv_file:
 
-                fieldnames = ['datahora', 'estado', 'riscofogo','porcentagem']
-                csv_writer = csv.DictWriter(new_file, fieldnames = fieldnames)
-                csv_writer.writeheader()
+                csv_reader = csv.DictReader(csv_file)
 
-                for line in csv_reader:
+                with open('dataset_final/' + year + '/' + mouth + '/' + mouth + '.csv', 'w') as new_file:
 
-                    del line['satelite']
-                    del line['pais']
-                    del line['municipio']
-                    del line['precipitacao']
-                    del line['frp']
-                    del line['latitude']
-                    del line['longitude']
-                    del line['bioma']
-                    del line['diasemchuva']
+                    fieldnames = ['datahora', 'estado', 'riscofogo','riscoAbsoluto']
+                    csv_writer = csv.DictWriter(new_file, fieldnames = fieldnames)
+                    csv_writer.writeheader()
 
-                    if line['riscofogo'] >= '0.7':
-                        line['porcentagem'] = '1'
-                    else:
-                        line['porcentagem'] = '0'
+                    for line in csv_reader:
 
-                    csv_writer.writerow(line)
+                        del line['satelite']
+                        del line['pais']
+                        del line['municipio']
+                        del line['precipitacao']
+                        del line['frp']
+                        del line['latitude']
+                        del line['longitude']
+                        del line['bioma']
+                        del line['diasemchuva']
+
+                        if line['riscofogo'] >= '0.7':
+                            line['riscoAbsoluto'] = '1'
+                        else:
+                            line['riscoAbsoluto'] = '0'
+
+                        csv_writer.writerow(line)
